@@ -1,3 +1,4 @@
 images/
-players.json
+*.json
 .idea/
+*.txt
