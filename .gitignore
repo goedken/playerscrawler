@@ -2,3 +2,4 @@ images/
 *.json
 .idea/
 *.txt
+*.csv
